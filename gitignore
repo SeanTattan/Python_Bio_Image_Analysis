@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# Allow this .gitignore
+!.gitignore
+
+# Allow the data folder and .tif/.tiff files inside it
+!data/
+!data/**
+
+# Within data/, ignore anything that isn't a tif/tiff
+data/*
+!data/*.tif
+!data/*.tiff
+

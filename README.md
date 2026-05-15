@@ -4,7 +4,7 @@ A hands-on workshop notebook introducing Python-based image analysis for biologi
 
 ## Overview
 
-This workshop takes you from first principles — working with individual pixel values — through to loading real fluorescence microscopy data, visualising it, and extracting quantitative biological measurements. By the end, you will have segmented nuclei from a multiplexed image and measured fluorescence intensities within them.
+This workshop takes you from first principles, working with individual pixel values, through to loading real fluorescence microscopy data, visualising it, and extracting quantitative biological measurements. By the end, you will have segmented nuclei from a multiplexed image and measured fluorescence intensities within them.
 
 ## Environment
 
